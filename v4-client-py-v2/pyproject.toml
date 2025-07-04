@@ -19,6 +19,7 @@ bech32 = "^1.2.0"
 pycryptodome = "^3.20.0"
 grpcio = "^1.68.0"
 coincurve = "^20.0.0"
+python-dotenv = "^1.1.1"
 
 
 [tool.poetry.group.dev.dependencies]
